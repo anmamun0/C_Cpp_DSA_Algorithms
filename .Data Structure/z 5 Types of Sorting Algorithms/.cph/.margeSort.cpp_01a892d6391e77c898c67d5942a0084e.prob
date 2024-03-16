@@ -1,0 +1,1 @@
+{"name":"Local: margeSort","url":"e:\\#_Programing\\Data Structure\\z\\margeSort.cpp","tests":[{"id":1705417779244,"input":"9\n2 3 1 5 4 12 70 6 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\#_Programing\\Data Structure\\z\\margeSort.cpp","group":"local","local":true}

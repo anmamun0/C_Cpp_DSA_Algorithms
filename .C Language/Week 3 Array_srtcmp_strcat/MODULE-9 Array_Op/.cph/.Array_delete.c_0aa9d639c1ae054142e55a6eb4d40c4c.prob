@@ -1,0 +1,1 @@
+{"name":"Local: Array_delete","url":"e:\\#_Programing\\C Language\\Week 3\\MODULE-9\\Array_delete.c","tests":[{"id":1697304130711,"input":"5\n10 20 30 40 50\n1 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\#_Programing\\C Language\\Week 3\\MODULE-9\\Array_delete.c","group":"local","local":true}

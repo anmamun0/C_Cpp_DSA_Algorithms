@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "array": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+    },
+    "codesnap.showWindowTitle": true
+}

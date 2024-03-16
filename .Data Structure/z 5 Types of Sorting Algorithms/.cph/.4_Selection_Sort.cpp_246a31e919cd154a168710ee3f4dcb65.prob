@@ -1,0 +1,1 @@
+{"name":"Local: 4_Selection_Sort","url":"e:\\#_Programing\\Data Structure\\zMarge_Quick_Sort\\4_Selection_Sort.cpp","tests":[{"id":1705688822072,"input":"5\n1 3 6 0 2","output":"0 1 2 3 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\#_Programing\\Data Structure\\zMarge_Quick_Sort\\4_Selection_Sort.cpp","group":"local","local":true}
